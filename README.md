@@ -2,6 +2,8 @@
 
 A simple, AI-assisted, clickable UX prototype created for a Product Owner Trainee assessment. It explores a faster way to invite friends to collaborate on a music playlist.
 
+Live Demo: https://apple-music-instant-invite-applemus.vercel.app
+
 > **Disclaimer:** This is an independent student concept, not an official Apple Music product and not affiliated with Apple. It uses sample data and does not connect to Apple Music or provide real multi-device synchronization.
 
 ## The problem
