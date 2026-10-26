@@ -32,16 +32,6 @@ Collaborative playlist setup can involve unnecessary steps. This concept demonst
 5. Select **Preview friend's invitation**, then **Join playlist instantly**.
 6. Open the collaborative playlist, enter a song name, and select **Add to shared playlist**.
 
-## Deploy to Vercel
-
-1. Create a new GitHub repository.
-2. Upload `index.html` and `README.md` to the repository **root**.
-3. Sign in at [Vercel](https://vercel.com/new) using GitHub.
-4. Import the repository.
-5. Set **Framework Preset** to **Other**; no build command is required for this static site.
-6. Keep **Root Directory** at `./` and deploy.
-7. Open the deployed URL in a private/incognito browser window to confirm public access without login.
-
 ## Technology
 
 - HTML
@@ -55,7 +45,3 @@ Collaborative playlist setup can involve unnecessary steps. This concept demonst
 - Joining, playlist updates and Auto Sync are simulated in the browser, not backed by a server.
 - The prototype is intended to demonstrate a proposed user journey, not production-ready functionality.
 
-## Assessment submission
-
-**Feature:** Instant Link Invite for Apple Music  
-**Deliverable:** Interactive prototype demonstrating an easier collaborative playlist experience.
